@@ -1,5 +1,5 @@
 {
-  "name": "rrcl",
+  "name": "@baalej/rrcl",
   "version": "1.0.0",
   "description": "react reusable component library",
   "main": "index.js",
@@ -12,5 +12,8 @@
   "devDependencies": {
     "react": "^18.2.0",
     "vite": "^4.5.0"
+  },
+  "publishConfig": {
+    "@baalej:registry": "https://npm.pkg.github.com"
   }
 }
